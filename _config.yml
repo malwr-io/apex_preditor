@@ -8,7 +8,7 @@ social_link: twitter
 social_username: broccolini
 github_repo: athena # the GitHub repo name for your project
 github_username: broccolini
-theme_color: black
+theme_color: blue
 
 # Theme
 remote_theme: 'internet-de-france/swiss'
