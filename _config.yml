@@ -1,4 +1,3 @@
-
 # SEO
 title: Swiss Jekyll Theme
 description: A bold typographic theme inspired by Swiss design.
@@ -11,27 +10,25 @@ github_username: broccolini
 theme_color: blue
 
 # Theme
-remote_theme: 'internet-de-france/swiss'
-baseurl: '/apex_preditor'
+remote_theme: "internet-de-france/swiss"
+baseurl: "/apex_preditor"
 
 # Defaults
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
       category_name: ""
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       categories: ""
 
 # Stastic UI
-remote_theme_layouts: 
+remote_theme_layouts:
   - ""
   - default
   - page
@@ -53,5 +50,3 @@ theme_colors:
   - red
   - white
   - yellow
-
-
